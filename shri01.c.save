@@ -2,7 +2,7 @@
 int main() {
  int a;
  float b;
- double c; MIT ADT University, Pune
+ double c;
  char ch;
  char name[50];
  // Input section
